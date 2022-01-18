@@ -17,6 +17,7 @@ function App() {
               </div> 
               <input type="text" class="form-control" placeholder="username"></input>
               </div>
+              
       </form>
 			</div>
       </div>
